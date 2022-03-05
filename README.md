@@ -1,0 +1,1 @@
+Project: **PupSpa**, following tasks from Codecademy.
